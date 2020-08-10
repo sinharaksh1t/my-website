@@ -1,3 +1,7 @@
+Might consider changing the stuff below but they look okay for now.. so meh 🤷‍♂️
+
+My website: sinharakshit.com
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
