@@ -1,4 +1,4 @@
-My website: [sinharakshit.com](sinharakshit.com)
+My website: [sinharakshit.com](https://sinharakshit.com)
 
 Might consider changing the stuff below but they look okay for now.. so meh 🤷‍♂️
 
